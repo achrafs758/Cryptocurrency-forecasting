@@ -12,8 +12,6 @@ which are all we need to run this project.
 
 Alternative you can open the .ipynb file using Jupyter notebook. If you do this you will also have to set up a local kernel that includes Tensorflow.
 
-# References Taken
-https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/
 
 #  Bitcoin daily loss and pricing
 
